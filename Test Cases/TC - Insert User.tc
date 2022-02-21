@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Insert User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7858a204-c914-43a9-9341-cf3bf735147d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78d43586-ae27-4199-95ec-b9f8913b3651</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3b79079-fa65-441e-bee0-bf2e5f9b8411</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bcb88c4-920f-48e6-a3da-f2e17e31b010</id>
+      <masked>false</masked>
+      <name>Gender</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c706f02c-b4d6-493b-8a88-c7c010b03745</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+</TestCaseEntity>
